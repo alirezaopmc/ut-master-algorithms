@@ -1,0 +1,5 @@
+{
+  "editor.defaultFormatter": "ms-python.black-formatter",
+  "notebook.formatOnSave.enabled": true,
+  "editor.formatOnSave": true
+}
